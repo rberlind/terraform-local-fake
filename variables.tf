@@ -1,4 +1,5 @@
 variable "name" {
-  default = "Sam"
+  description = "name"
+  default = "Roger"
 }
 
